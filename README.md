@@ -32,8 +32,8 @@ Started as a contactor for 8months. Was brought on full time. Worked with colleg
 ## Projects
 I currently have the following active/semi active projects:
 
-Compare Insurance Bot (https://www.compareinsurancebot.com)<br />
-Groupons Near Me (https://m.me/grouponsnearme)
+Compare Insurance Bot [https://www.compareinsurancebot.com](https://www.compareinsurancebot.com)<br />
+Groupons Near Me [(https://m.me/grouponsnearme](https://m.me/grouponsnearme)
 
 ## About me
 Grew up in Cape Town, South Africa during a very exciting transition period which I can attribute my zero tolerance of bigotry and racism to. Moved to Dublin, Ireland in 2001 to pursue work and/or College. Worked for an Irish Bank doing tech support before attending Dublin City University to get a BSc. in Multimedia. Met my (future) wife while working in an Irish Pub. We decided to move to America in 2010 (she’s an American ;) and got married. Now the happy father of one energetic 3 year old toddler
